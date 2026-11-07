@@ -1,4 +1,4 @@
-# Hi, I'm pytraveler 👋
+# Hi, I'm Aleks.
 
 **Building practical tools for local AI.**
 
